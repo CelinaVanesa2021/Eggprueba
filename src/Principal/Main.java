@@ -18,7 +18,7 @@ import estancias.servicios.FamiliaService;
 public class Main {
     public static void main(String[] args) {
         FamiliaService serv = new FamiliaService();
-        
+        System.out.println("Ingrese la lista de casas");
 //        try {
 ////            serv.listarFamilia();
 ////            serv.imprimirFamilia();
